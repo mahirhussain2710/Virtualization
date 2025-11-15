@@ -1,9 +1,9 @@
 # Virtualization
 ## Ex.3(A-C) Virtualization: Installation and Configuration of Oracle VirtualBox & Kali Linux, and Execution of Linux Commands
 
-## NAME: Subbiah S
+## NAME: Mahir Hussain S
 
-## REG NO: 212223220111
+## REG NO: 212223040109
 
 ## Aim:
 
